@@ -1,0 +1,91 @@
+@media (max-width: 550px) {
+    .top-menu{
+        display: none;
+    }
+    .burger{
+        display: flex;
+        z-index: 2;
+    }
+    .top-menu.show{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        position: fixed;
+        left: 0;
+        top: 0;
+        background: linear-gradient(90deg, #504DC2 20.44%, #5F12D0 80.91%);
+        width: 100%;
+        height: 100%;
+        z-index: 2;
+    }
+    .service-container{
+        margin-top: 10px;
+    }
+    .about-service{
+        width: 382px;
+        text-align: center;
+    }
+    .service-title{
+        font-size: 23px;
+        line-height: 53px;
+    }
+    .service-description{
+        font-size: 15px;
+        line-height: 22px;
+    }
+  .col-4{
+        width: 100%;
+    }
+  .row{
+      display: flex;
+      flex-wrap: wrap;
+  }
+  #about-us{
+      margin: 144px 0 10px
+  }
+  #benefits:before{
+      height: 16%;
+  }
+  .col-6{
+      width: 100%;
+      padding: 0 0 0;
+  }
+  .picture{
+      height: 0;
+      margin: 45px
+  }
+  .benefit-header{
+      display: flex;
+      flex-direction: column;
+  }
+  .benefit-title{
+      padding-bottom: 10px;
+  }
+  .col-3{
+      width: 100%;
+      margin-bottom: 10px;
+  }
+#video:before{
+    height: 30%;
+}
+.video-header{
+    padding: 0 0 0;
+}
+  .video-box-play{
+      height: 200px;
+      width: 500px;
+      top: 0;
+  }
+  .video-play-button{
+      top: 25%;
+      left: 28%;
+      width: 245px;
+      height: 70px;
+  }
+.video-text{
+    font-size: 15px;
+}
+}
+
+
