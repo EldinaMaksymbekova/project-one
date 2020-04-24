@@ -49,10 +49,10 @@ _Web developer with 5+ years of experience in designing and developing user inte
   
  ## Education <h2>
  __Incomplete higher education in software engineering. HTML Academy Html, Css CodeCademy - Html, Css Stepik - Python Loftschool - Js course__
- ###B.S WEB DEVELOPMENT <h3>
+ ######B.S WEB DEVELOPMENT 
  ###### Kyrgyzstan State University <h6> Bishkek, Kg / 2013
  
- ###A.A PROGRAMMING <h3>
+ ######A.A PROGRAMMING 
  ###### AUCA College <h6> Bishkek, Kg / 2010    
     
  ## My English <h2>
