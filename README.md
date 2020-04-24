@@ -56,5 +56,5 @@ _Web developer with 5+ years of experience in designing and developing user inte
  ###### AUCA College <h6> Bishkek, Kg / 2010    
     
  ## My English <h2>
- _I have graduated two English course, got my TOEFLE certificate in 2019. Moreover I can read and transilate the documentations. _ 
+ _I have graduated two English course, got my TOEFLE certificate in 2019. Moreover I can read and transilate the documentations._ 
      
